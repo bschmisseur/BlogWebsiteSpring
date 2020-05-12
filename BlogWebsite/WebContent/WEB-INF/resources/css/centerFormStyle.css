@@ -1,0 +1,19 @@
+.midPage  {	
+	text-align: center;
+	border: 2px solid black;
+	padding: 40px 20px 20px 40px;
+ 	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -40%);
+	overflow-y: scroll; 
+}
+
+.midPage table {
+	align: center;
+	text-align: center;
+}
+
+.midPage tr {
+	padding: 10px;
+}
