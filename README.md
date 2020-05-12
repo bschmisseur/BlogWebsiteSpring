@@ -22,11 +22,17 @@ Below attached are all the different UML and screen shots used for the project:
 <h4>ER Diagram</h4>
 
 <p align="center">
-	<img src="BlogWebsite_Images/ER_Diagram.png" alt="Blog Website Class UML"/>
+	<img src="BlogWebsite_Images/ER_Diagram.png" width="50%"alt="Blog Website Class UML"/>
 </p>
 
 <h4>Flow Chart</h4>
 
 <p align="center">
 	<img src="BlogWebsite_Images/FlowChart.png" alt="Blog Website Class UML"/>
+</p>
+
+<h4>Final Product</h4>
+
+<p align="center">
+	<img src="BlogWebsite_Images/ScreenShots.png" alt="Blog Website Scree Shots"/>
 </p>
